@@ -1,7 +1,7 @@
-# Java-Project
+# Java
 
 ## Project Description
-This repository contains a Java Java-Project demonstrating various programming concepts and implementations developed during the laboratory session.
+This repository contains a Java demonstrating various programming concepts and implementations developed during the laboratory session.
 
 ## Prerequisites
 - Java programming knowledge
@@ -13,11 +13,11 @@ Ensure you have the following NuGet packages installed: Visual Studio
 To build the project, use one of the following methods:
 
 ### Using Visual Studio
-1. Open `Java-Project.sln`
+1. Open `Java.sln`
 2. Build → Build Solution (Ctrl+Shift+B)
 
 ## Key Features
-- [List key features or learning objectives of your Java-Project]
+- [List key features or learning objectives of your Java]
 - [Highlight specific Java concepts demonstrated]
 - [Describe any unique implementations]
 
