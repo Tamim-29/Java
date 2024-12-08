@@ -27,12 +27,11 @@ To build the project, use one of the following methods:
 
 ## License
 MIT License
-
 Copyright (c) 2024 Tamim-29
 
 ## Additional Notes
 - This project is part of a personal assignment
-- 
+ 
 ## Troubleshooting
 - Check compatibility with your development environment
 - Ensure all dependencies are correctly installed
